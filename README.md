@@ -26,4 +26,9 @@ The app is a simple CRUD (Create, Read, Update, Delete) application that allows 
 - Mongoose for object modeling
 - Bootstrap for styling
 
+## Images 
+(![User Create](image.png))
+![User List](image-1.png)
+![User Update](image-2.png)
+
 
